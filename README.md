@@ -3,23 +3,23 @@ Official repo for LOT tts python app. The installer can be downloaded at the rel
 
 LOT - Offline Text - to - Speech Application README 🗣️💻
 
-Overview
+##Overview
 🎉 LOT is an offline TTS app. Convert text to speech, save as WAV! Uses pyttsx3 and customtkinter. Simple & practical! 🌟
 
 
-Features
+##Features
 Text - to - Speech 📝🔊: Input text, click "Speak"!
 Voice Selection 🗣️🎛️: Pick from system voices.
 Audio Saving 💾🔊: Save speech as WAV.
 Voice Guide 📥🖥️: Click for voice download info.
 
 
-Installation
+##Installation
 🐍 Install Python from official site.
 📦 Run pip install pyttsx3 customtkinter in terminal.
 
 
-Usage
+##Usage
 💨 Navigate to script dir, run python your_script_name.py.
 📝 Enter text.
 🎛️ Select voice.
@@ -28,7 +28,7 @@ Usage
 📥🖥️ Click "Missing Voices Guide" for help.
 
 
-Technical
+##Technical
 Engine 🧩🔊: pyttsx3 for TTS.
 GUI 🎨👀: customtkinter for UI.
 Files 💾📂: filedialog for saving.
