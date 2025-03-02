@@ -1,4 +1,4 @@
-Official repo for LOT tts python app. The installer can be downloaded at the release page of this repo, you can also use pyinsaller library to pack this program:)
+Official repo for LOT tts python app. The installer can be downloaded at the release page of this repo, you can also use pyinsaller library to pack this program:)😍
 
 
 LOT - Local Offline Text-to-Speech Application README 🗣️💻
