@@ -16,7 +16,7 @@ Voice Guide 📥🖥️: Click for voice download info.
 
 <h1/>Installation</h1>
 🐍 Install Python from official site.
-📦 Run **pip install pyttsx3 customtkinter** in terminal.
+📦 Run pip install pyttsx3 customtkinter in terminal.
 
 
 <h1/>Usage</h1>
