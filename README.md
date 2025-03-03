@@ -5,6 +5,7 @@ LOT - Local Offline Text-to-Speech Application README 🗣️💻
 
 <h1/>Overview</h1>
 🎉 LOT is an offline TTS app. Convert text to speech, save as WAV! Uses pyttsx3 and customtkinter. Simple & practical! 🌟
+<img width="370" alt="shot" src="https://github.com/user-attachments/assets/3c8b6fc2-dd08-4d4f-bdcb-698b8db58a82" />
 
 
 <h1/>Features</h1>
